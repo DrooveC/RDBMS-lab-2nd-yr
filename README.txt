@@ -1,1 +1,0 @@
-THis is RDBMS Lab PRoject worked upon by Dhruv Chanda and Aditya Sindhwani of Manipal University Jaupur @nd Year 2025 Nov
